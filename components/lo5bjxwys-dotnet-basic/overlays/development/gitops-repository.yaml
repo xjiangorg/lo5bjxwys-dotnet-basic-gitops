@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lo5bjxwys-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/lo5bjxwys-dotnet-basic-gitops
